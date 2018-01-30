@@ -41,6 +41,10 @@ body{
     margin: 0 auto 130px;
 }
 
+.padding{
+    padding:0 10px 0 10px;
+}
+
 #main-box{
     border: 1px solid #efefef;
     padding: 0 20px 20px 20px;
